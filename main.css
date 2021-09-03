@@ -1,0 +1,36 @@
+body {
+	background-color: #E0EEE0;
+	width: 100%;
+	font-family: arial;
+	text-decoration:none;
+}
+
+.menu {
+	background-color:#C6E2FF;
+	width: 15%;
+	margin: 0 0 0 10%;
+	float: left;
+	display: block;
+	text-decoration:none;
+	
+}
+.mainbox {
+	background-color:#DCDCDC;
+	width: 50%;
+	float: left;
+	font-family: arial;
+	padding: 20pt;
+	text-decoration:none;
+}
+
+a {
+	color:black;
+	text-decoration:none;
+}
+
+.towerblaster {
+	object-fit: cover;
+	object-position: 10% 0;
+	height: 50 px;
+	width: 50 px;
+}
